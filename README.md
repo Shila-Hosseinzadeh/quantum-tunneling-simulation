@@ -1,6 +1,8 @@
-# Quantum Tunneling Simulation (1D)
+ 
 
-Numerical simulation of quantum tunneling through a potential barrier using Python.
+Hamiltonian Calculation (upper_base , lower_base , H_ground )
+
+
 
 ## Physics
 Solves the time-independent Schrödinger equation using finite difference method.
